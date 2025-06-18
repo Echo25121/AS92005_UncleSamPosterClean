@@ -9,6 +9,6 @@ A wiki can document your work!
 1.Git is a professional real world tool that is important to master.  
 2.Easy to collaborate, version control and keep everything in one place
 3.Wiki and project managament toools are top-notch
-3.Ease of access for external moderation
+4.Ease of access for external moderation
 
 
