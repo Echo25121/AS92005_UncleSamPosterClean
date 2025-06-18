@@ -1,6 +1,6 @@
 #What
 
-Github repository.  Name yours AS92005_[Your name]
+Github repository.  Name yours AS92005_EchoWheeler
 Any file can be stored in the code section
 A wiki can document your work!
 
